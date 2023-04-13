@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901593263849",
+    "project_id": "khartz-7176a",
+    "storage_bucket": "khartz-7176a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901593263849:android:908e67c58c341ec2ac0a78",
+        "android_client_info": {
+          "package_name": "com.example.simfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901593263849-bvco8psd66ohnltkcd8l62ev6m20rr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTkcVUnp5RdSmLaWnQkv-ywiL_UbaXd90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901593263849-bvco8psd66ohnltkcd8l62ev6m20rr0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
